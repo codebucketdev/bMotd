@@ -1,0 +1,7 @@
+# Default config for bMotd v1.2
+# http://www.codebucket.de/plugin/bMotd
+random: true
+motdlist:
+- '&aFirst Message of the Day'
+- '&bSecond Message of the Day'
+- '&cThird Message of the Day'

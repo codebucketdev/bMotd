@@ -1,0 +1,5 @@
+name: bMotd
+main : de.codebucket.bmotd.Main
+version: 1.2
+author: Codebucket
+depends: [BungeeYAML]
